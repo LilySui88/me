@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hux Blog</title>
+    <title>Lily Blog</title>
     <description>关于前端与设计、黑客与画家 | 黄玄，Web &amp; Mobile Lover，Front-End Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。</description>
-    <link>http://huangxuan.me/</link>
-    <atom:link href="http://huangxuan.me/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 24 Jan 2016 01:20:11 +0800</pubDate>
-    <lastBuildDate>Sun, 24 Jan 2016 01:20:11 +0800</lastBuildDate>
+    <link>http://lilysui88.github.io/me/</link>
+    <atom:link href="http://lilysui88.github.io/me/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 24 Jan 2016 08:56:22 +0800</pubDate>
+    <lastBuildDate>Sun, 24 Jan 2016 08:56:22 +0800</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -136,8 +136,8 @@ require(&#39;./PageA.scss&#39;);
 &lt;p&gt;&lt;a href=&quot;http://lab.hakim.se/reveal-js&quot;&gt;Reveal.js&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 28 Dec 2015 00:00:00 +0800</pubDate>
-        <link>http://huangxuan.me/2015/12/28/css-sucks-2015/</link>
-        <guid isPermaLink="true">http://huangxuan.me/2015/12/28/css-sucks-2015/</guid>
+        <link>http://lilysui88.github.io/me/2015/12/28/css-sucks-2015/</link>
+        <guid isPermaLink="true">http://lilysui88.github.io/me/2015/12/28/css-sucks-2015/</guid>
         
         <category>前端开发</category>
         
@@ -478,8 +478,8 @@ require(&#39;./PageA.scss&#39;);
 译者 &lt;a href=&quot;http://weibo.com/huxpro&quot;&gt;黄玄&lt;/a&gt;，首次发布于 &lt;a href=&quot;http://huangxuan.me&quot;&gt;Hux Blog&lt;/a&gt;，转载请保留以上链接&lt;/p&gt;
 </description>
         <pubDate>Tue, 15 Dec 2015 00:00:00 +0800</pubDate>
-        <link>http://huangxuan.me/2015/12/15/ios9-safari-web/</link>
-        <guid isPermaLink="true">http://huangxuan.me/2015/12/15/ios9-safari-web/</guid>
+        <link>http://lilysui88.github.io/me/2015/12/15/ios9-safari-web/</link>
+        <guid isPermaLink="true">http://lilysui88.github.io/me/2015/12/15/ios9-safari-web/</guid>
         
         <category>前端开发</category>
         
@@ -668,8 +668,8 @@ $(&#39;.className&#39;).click(function(){
 
 </description>
         <pubDate>Wed, 28 Oct 2015 20:00:00 +0800</pubDate>
-        <link>http://huangxuan.me/2015/10/28/how-designer-learn-fe/</link>
-        <guid isPermaLink="true">http://huangxuan.me/2015/10/28/how-designer-learn-fe/</guid>
+        <link>http://lilysui88.github.io/me/2015/10/28/how-designer-learn-fe/</link>
+        <guid isPermaLink="true">http://lilysui88.github.io/me/2015/10/28/how-designer-learn-fe/</guid>
         
         <category>知乎</category>
         
@@ -745,8 +745,8 @@ $(&#39;.className&#39;).click(function(){
 
 </description>
         <pubDate>Tue, 22 Sep 2015 00:00:00 +0800</pubDate>
-        <link>http://huangxuan.me/2015/09/22/js-version/</link>
-        <guid isPermaLink="true">http://huangxuan.me/2015/09/22/js-version/</guid>
+        <link>http://lilysui88.github.io/me/2015/09/22/js-version/</link>
+        <guid isPermaLink="true">http://lilysui88.github.io/me/2015/09/22/js-version/</guid>
         
         <category>前端开发</category>
         
@@ -792,8 +792,8 @@ $(&#39;.className&#39;).click(function(){
 &lt;p&gt;&lt;a href=&quot;http://lab.hakim.se/reveal-js&quot;&gt;Reveal.js&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 09 Jul 2015 00:00:00 +0800</pubDate>
-        <link>http://huangxuan.me/2015/07/09/js-module-7day/</link>
-        <guid isPermaLink="true">http://huangxuan.me/2015/07/09/js-module-7day/</guid>
+        <link>http://lilysui88.github.io/me/2015/07/09/js-module-7day/</link>
+        <guid isPermaLink="true">http://lilysui88.github.io/me/2015/07/09/js-module-7day/</guid>
         
         <category>前端开发</category>
         
@@ -1034,8 +1034,8 @@ BAT 纷纷介入，行业进入了传说中的 BATX 格局：&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
         <pubDate>Mon, 15 Jun 2015 00:00:00 +0800</pubDate>
-        <link>http://huangxuan.me/2015/06/15/alitrip-strategy/</link>
-        <guid isPermaLink="true">http://huangxuan.me/2015/06/15/alitrip-strategy/</guid>
+        <link>http://lilysui88.github.io/me/2015/06/15/alitrip-strategy/</link>
+        <guid isPermaLink="true">http://lilysui88.github.io/me/2015/06/15/alitrip-strategy/</guid>
         
         <category>产品设计</category>
         
@@ -1353,8 +1353,8 @@ define(function(require, exports, module) {
 
 </description>
         <pubDate>Mon, 25 May 2015 00:00:00 +0800</pubDate>
-        <link>http://huangxuan.me/2015/05/25/js-module-loader/</link>
-        <guid isPermaLink="true">http://huangxuan.me/2015/05/25/js-module-loader/</guid>
+        <link>http://lilysui88.github.io/me/2015/05/25/js-module-loader/</link>
+        <guid isPermaLink="true">http://lilysui88.github.io/me/2015/05/25/js-module-loader/</guid>
         
         <category>前端开发</category>
         
@@ -1470,8 +1470,8 @@ define(function(require, exports, module) {
 &lt;p&gt;&lt;img src=&quot;/img/in-post/post-c-u-ali-079717.png&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 11 May 2015 00:00:00 +0800</pubDate>
-        <link>http://huangxuan.me/2015/05/11/see-u-ali/</link>
-        <guid isPermaLink="true">http://huangxuan.me/2015/05/11/see-u-ali/</guid>
+        <link>http://lilysui88.github.io/me/2015/05/11/see-u-ali/</link>
+        <guid isPermaLink="true">http://lilysui88.github.io/me/2015/05/11/see-u-ali/</guid>
         
         <category>生活</category>
         
@@ -1589,8 +1589,8 @@ define(function(require, exports, module) {
 
 </description>
         <pubDate>Wed, 15 Apr 2015 00:00:00 +0800</pubDate>
-        <link>http://huangxuan.me/2015/04/15/os-metro/</link>
-        <guid isPermaLink="true">http://huangxuan.me/2015/04/15/os-metro/</guid>
+        <link>http://lilysui88.github.io/me/2015/04/15/os-metro/</link>
+        <guid isPermaLink="true">http://lilysui88.github.io/me/2015/04/15/os-metro/</guid>
         
         <category>hUX 随想录</category>
         
@@ -1884,8 +1884,8 @@ Android’s source code is released by Google under open source licenses, althou
 
 </description>
         <pubDate>Tue, 14 Apr 2015 00:00:00 +0800</pubDate>
-        <link>http://huangxuan.me/2015/04/14/unix-linux-note/</link>
-        <guid isPermaLink="true">http://huangxuan.me/2015/04/14/unix-linux-note/</guid>
+        <link>http://lilysui88.github.io/me/2015/04/14/unix-linux-note/</link>
+        <guid isPermaLink="true">http://lilysui88.github.io/me/2015/04/14/unix-linux-note/</guid>
         
         <category>OS</category>
         
