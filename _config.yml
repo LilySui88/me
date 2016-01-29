@@ -62,7 +62,7 @@ ga_domain: lilysui.cn
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "吃吃喝喝，玩玩乐乐。世界那么大，我想去看看。"
-sidebar-avatar: /img/lily-head.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/lily1.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
