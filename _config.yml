@@ -77,5 +77,9 @@ friends: [
     {
         title: "大蜕的博客",
         href: "http://homuralovelive.com/"
+    },
+        {
+        title: "Dante的博客",
+        href: "http://zhaodedong.com/"
     }
 ]
